@@ -1,0 +1,17 @@
+C:\Users\lapon\source\repos\main\WebApplication1\BuisnessLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\lapon\source\repos\main\WebApplication1\BuisnessLayer\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\lapon\source\repos\main\WebApplication1\BuisnessLayer\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\lapon\source\repos\main\WebApplication1\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.AssemblyInfoInputs.cache
+C:\Users\lapon\source\repos\main\WebApplication1\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.AssemblyInfo.cs
+C:\Users\lapon\source\repos\main\WebApplication1\BuisnessLayer\bin\Debug\netcoreapp3.1\BuisnessLayer.deps.json
+C:\Users\lapon\source\repos\main\WebApplication1\BuisnessLayer\bin\Debug\netcoreapp3.1\BuisnessLayer.runtimeconfig.json
+C:\Users\lapon\source\repos\main\WebApplication1\BuisnessLayer\bin\Debug\netcoreapp3.1\BuisnessLayer.runtimeconfig.dev.json
+C:\Users\lapon\source\repos\main\WebApplication1\BuisnessLayer\bin\Debug\netcoreapp3.1\BuisnessLayer.dll
+C:\Users\lapon\source\repos\main\WebApplication1\BuisnessLayer\bin\Debug\netcoreapp3.1\BuisnessLayer.pdb
+C:\Users\lapon\source\repos\main\WebApplication1\BuisnessLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\lapon\source\repos\main\WebApplication1\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.csprojAssemblyReference.cache
+C:\Users\lapon\source\repos\main\WebApplication1\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lapon\source\repos\main\WebApplication1\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.csproj.CopyComplete
+C:\Users\lapon\source\repos\main\WebApplication1\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.dll
+C:\Users\lapon\source\repos\main\WebApplication1\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.pdb
+C:\Users\lapon\source\repos\main\WebApplication1\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.genruntimeconfig.cache

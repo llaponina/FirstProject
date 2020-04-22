@@ -1,0 +1,8 @@
+C:\Users\lapon\source\repos\main\WebApplication1\Domain_\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\lapon\source\repos\main\WebApplication1\Domain_\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\lapon\source\repos\main\WebApplication1\Domain_\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\lapon\source\repos\main\WebApplication1\Domain_\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\lapon\source\repos\main\WebApplication1\Domain_\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\lapon\source\repos\main\WebApplication1\Domain_\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\lapon\source\repos\main\WebApplication1\Domain_\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\lapon\source\repos\main\WebApplication1\Domain_\obj\Debug\netcoreapp3.1\Domain.pdb

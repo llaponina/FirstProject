@@ -1,0 +1,9 @@
+C:\Users\lapon\source\repos\main\WebApplication1\ClientLayer\bin\Debug\netcoreapp3.1\ClientLayer.deps.json
+C:\Users\lapon\source\repos\main\WebApplication1\ClientLayer\bin\Debug\netcoreapp3.1\ClientLayer.dll
+C:\Users\lapon\source\repos\main\WebApplication1\ClientLayer\bin\Debug\netcoreapp3.1\ClientLayer.pdb
+C:\Users\lapon\source\repos\main\WebApplication1\ClientLayer\obj\Debug\netcoreapp3.1\ClientLayer.csprojAssemblyReference.cache
+C:\Users\lapon\source\repos\main\WebApplication1\ClientLayer\obj\Debug\netcoreapp3.1\ClientLayer.csproj.CoreCompileInputs.cache
+C:\Users\lapon\source\repos\main\WebApplication1\ClientLayer\obj\Debug\netcoreapp3.1\ClientLayer.AssemblyInfoInputs.cache
+C:\Users\lapon\source\repos\main\WebApplication1\ClientLayer\obj\Debug\netcoreapp3.1\ClientLayer.AssemblyInfo.cs
+C:\Users\lapon\source\repos\main\WebApplication1\ClientLayer\obj\Debug\netcoreapp3.1\ClientLayer.dll
+C:\Users\lapon\source\repos\main\WebApplication1\ClientLayer\obj\Debug\netcoreapp3.1\ClientLayer.pdb
